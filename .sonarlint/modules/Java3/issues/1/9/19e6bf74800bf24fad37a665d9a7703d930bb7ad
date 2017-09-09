@@ -1,0 +1,13 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢½š©ıÿÿÿÿ8¼Ò©±ß+HÆRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÄî¢8¼Ò©±ß+HÅRMAJORZ
+CODE_SMELL
+asquid:S1172"(Remove this unused method parameter "n".(şÅæÔÿÿÿÿÿ8´Ù±±ß+HÍRMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(îÉ‚ËúÿÿÿÿHÄRMINORZ
+CODE_SMELL
+\squid:S1172"(Remove this unused method parameter "s".(ƒşÃ8¼Ò©±ß+HÇRMAJORZ
+CODE_SMELL

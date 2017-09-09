@@ -1,0 +1,33 @@
+package com.org.pckg1;
+
+public class Exception {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int a =10 ;
+		public int m2(int num )
+		{
+			
+		
+		try {
+			
+		System.out.println(10/0);
+		return a ;
+		
+		}
+		catch (ArithmeticException ae )
+		{
+			System.out.println("artem"+ae.getMessage());
+			finally 
+			{
+				System.out.println("finally ");
+			}
+		}
+		
+		}
+
+	}
+
+}

@@ -1,0 +1,23 @@
+
+xsquid:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8ãà‡»ä+H„RCRITICALZBUG
+_squid:S1481	"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ8ãà‡»ä+H‰RMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHùRINFOZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª§¯Íøÿÿÿÿ8ãà‡»ä+H†RMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "aa" local variable.(†ª¾ùùÿÿÿÿ8¦ˆ˜»ä+H’RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÆœö8ãà‡»ä+HˆRMAJORZ
+CODE_SMELL
+nsquid:S1854	"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ8ãà‡»ä+HŠRMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "aa".(†ª¾ùùÿÿÿÿ8¦ˆ˜»ä+H“RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿ8ãà‡»ä+H‡RMAJORZ
+CODE_SMELL
+usquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(ˆÒÙüÿÿÿÿHøRMAJORZ
+CODE_SMELL

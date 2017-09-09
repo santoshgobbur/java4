@@ -1,0 +1,10 @@
+package com.org.pckg1;
+
+public class TestSetDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,28 @@
+package com.org.pckg1;
+
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Set;
+
+public class HashMapDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		HashMap <Object ,Object>h = new HashMap <Object,Object>();
+		
+		h.put(101, "lara");
+		h.put(101, "santosh");
+		h.put(102, "sama");
+		
+	System.out.println(""+	h.containsKey(101));
+		System.out.println(h);
+		Set s = h.keySet();
+		System.out.println(s);
+		 Collection c = h.values();
+		 System.out.println(c);
+		
+
+	}
+
+}

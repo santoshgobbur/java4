@@ -1,0 +1,63 @@
+
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…Ö®°şÿÿÿÿ8ç‘ÿ¸ä+HòRMINORZ
+CODE_SMELL
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(›˜»‚8ğ‡å¹ä+HßRMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "hs".(¡çşÿÿÿÿ8¯Ö¶¹ä+H¡RMAJORZ
+CODE_SMELL
+“squid:S1149-"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(³ø›Ê8áÛÚ¹ä+HÆRMAJORZ
+CODE_SMELL
+\squid:S1481-"(Remove this unused "st2" local variable.(³ø›Ê8áÛÚ¹ä+HÂRMINORZ
+CODE_SMELL
+Šsquid:S11494"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Éµ»Ó8‹ê‡ºä+H°RMAJORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ïßµ ùÿÿÿÿ8“¹À¹ä+H¯RMAJORZ
+CODE_SMELL
+squid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éµ»Ó8‹ê‡ºä+H¯RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(šôÈû8ŠÏÃ¹ä+H·RMAJORZ
+CODE_SMELL
+Xsquid:S2131"Use "Boolean.toString" instead.(ÂÜ…¦ùÿÿÿÿ8Š˜™¹ä+HŠRMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(À´ù8ˆ§‰ºä+H¹RMAJORZ
+CODE_SMELL
+osquid:S1854&"6Remove this useless assignment to local variable "s1".(âáäøüÿÿÿÿ8áÛÚ¹ä+HÄRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò–² ûÿÿÿÿ8Ğ·ç¹ä+HæRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ùŸ…¹ä+HöRMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "hs" local variable.(¡çşÿÿÿÿ8¯Ö¶¹ä+H RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8¯Ö¶¹ä+HŸRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHîRINFOZ
+CODE_SMELL
+Ysquid:S2129 " Remove this "String" constructor(°–Õşÿÿÿÿ8¯Ö¶¹ä+H¢RMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(«¡Ø³8Š˜™¹ä+H‰RMAJORZ
+CODE_SMELL
+“squid:S1149""_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".( ¥Âı8“¹À¹ä+H°RMAJORZ
+CODE_SMELL
+`squid:S1481&"'Remove this unused "s1" local variable.(âáäøüÿÿÿÿ8áÛÚ¹ä+HÁRMINORZ
+CODE_SMELL
+ksquid:S1854-"7Remove this useless assignment to local variable "st2".(³ø›Ê8áÛÚ¹ä+HÃRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Õé…8áÛÚ¹ä+HÀRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÜ…¦ùÿÿÿÿ8şö¡¹ä+HRMAJORZ
+CODE_SMELL
+l
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¤ıÿ©8´ë¥¹ä+H˜RMAJORZ
+CODE_SMELL
+˜squid:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(âáäøüÿÿÿÿ8áÛÚ¹ä+HÅRMAJORZ
+CODE_SMELL
