@@ -15,3 +15,17 @@ a
 0src/main/java/test/org/SeleniumMaven/SignUP.java,1\b\1bc988a450fb6b73bc6054f738ae4a9cfb78b411
 ^
 .src/main/java/test/org/SeleniumMaven/Cart.java,c\d\cd65428585c141b2948909de26f446bab071e315
+]
+-src/main/java/test/org/SeleniumMaven/App.java,3\d\3d820dcf3844585939c55c76eedc2889f71be41c
+i
+9src/main/java/test/scp/OrangeHrm/AdminMouseOperation.java,1\e\1eab5a64129b85ac32086f09ccf8d70842e105ca
+_
+/src/main/java/test/scp/OrangeHrm/UsersTask.java,8\b\8bd1e152019b60fa3e0cba52b979c606c645acec
+_
+/src/test/java/test/scp/OrangeHRM/LoginTest.java,b\c\bc987a0b99fa7a4b7208fe225fd8383e99f3b158
+a
+1src/main/java/test/scp/OrangeHrm/DashBoardPO.java,3\c\3c489a27d8908b59d5a4b57ac1c5406549f97eeb
+]
+-src/main/java/test/scp/OrangeHrm/LoginPO.java,6\0\6063c1be305184fd6dbca49c2e950fab13891a36
+c
+3src/test/java/test/scp/OrangeHRM/DashBoardTest.java,7\e\7e7ef1060075770ee2824424fe222c3c2362843b

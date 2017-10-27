@@ -21,6 +21,8 @@ public class TestClass2 {
   public void f(String x,String y ) {
 	  d.findElement(By.id("email")).sendKeys(x);
 	  d.findElement(By.id("pass")).sendKeys(y);
+	  System.out.println(x);
+	  System.out.println(y);
   }
 
   @DataProvider(name ="mix")
@@ -29,6 +31,7 @@ public class TestClass2 {
 	  return new Object[][]
 			  {
 			  new Object[]{"santosh","santosh123"},
+			  new Object[]{"rahul","rahul145"},
 			  };
 	  
   }

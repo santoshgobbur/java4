@@ -5,7 +5,7 @@
   
   <test name="Test4">
     <classes>
-      <class name="com.trs.xyz.NewTestJava3" name1="com.trs.xyz.NewTestJava4"/>
+      <class name="com.trs.xyz.Test1" "/>
     </classes>
   </test> <!-- Test -->
 

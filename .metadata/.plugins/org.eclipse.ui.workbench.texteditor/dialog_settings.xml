@@ -2,16 +2,21 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="driver" key="selection"/>
+		<item value="String" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="Object"/>
+			<item value="String"/>
+			<item value="act5"/>
 			<item value="d"/>
 			<item value="&#x09;d.findElement(By.xpath(&quot;//button[@type=&apos;submit&apos; and @id=&apos;sub_btn&apos;]&quot;)).click();"/>
 		</list>
 		<list key="replacehistory">
+			<item value="String"/>
+			<item value="Object"/>
 			<item value="driver"/>
 		</list>
 	</section>

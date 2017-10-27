@@ -1,0 +1,11 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁHÃRMAJORZ
+CODE_SMELL
+±squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘HÄRCRITICALZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.( ê…¨ÿÿÿÿÿHÅRMINORZ
+CODE_SMELL
+fsquid:S1161
+":Add the "@Override" annotation above this method signature(„¿³HÆRMAJORZ
+CODE_SMELL

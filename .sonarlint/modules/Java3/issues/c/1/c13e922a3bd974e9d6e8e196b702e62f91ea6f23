@@ -1,16 +1,16 @@
 
-ssquid:S1161!":Add the "@Override" annotation above this method signature(ª³„§þÿÿÿÿ8ïµí³ß+HíRMAJORZ
-CODE_SMELL
-Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÈŒØªùÿÿÿÿHèRMINORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(²ë¹8ïµí³ß+HêRMAJORZ
-CODE_SMELL
 l
-squid:S106""9Replace this use of System.out or System.err by a logger.(ˆã—Ù8ïµí³ß+HëRMAJORZ
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ˆã—Ù8ïµí³ß+HÑRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾¨ëíüÿÿÿÿ8ïµí³ß+HéRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾¨ëíüÿÿÿÿ8ïµí³ß+HÍRMAJORZ
 CODE_SMELL
-€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áî—ˆùÿÿÿÿHçRMINORZ
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ë¹8ïµí³ß+HÒRMAJORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áî—ˆùÿÿÿÿHÏRMINORZ
+CODE_SMELL
+nsquid:S1161"":Add the "@Override" annotation above this method signature(§„Ø»8ïµí³ß+HÎRMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÈŒØªùÿÿÿÿHÐRMINORZ
 CODE_SMELL

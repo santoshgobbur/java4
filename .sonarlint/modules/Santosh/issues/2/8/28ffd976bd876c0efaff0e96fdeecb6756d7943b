@@ -1,14 +1,14 @@
 
-qsquid:S3518"CMake sure this expression can't be zero before doing this division.(ַי¬ÿÿÿÿÿH€RCRITICALZBUG
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ַי¬ÿÿÿÿÿHRMAJORZ
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ֱֶֿHנRMAJORZ
 CODE_SMELL
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(£ֱֶֿH‚RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ֱֶֿHסRMAJORZ
 CODE_SMELL
 d
-squid:S106"9Replace this use of System.out or System.err by a logger.(׃קמZHƒRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(׃קמZHעRMAJORZ
 CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(£ֱֶֿH„RMAJORZ
+qsquid:S3518"CMake sure this expression can't be zero before doing this division.(ַי¬ÿÿÿÿÿHףRCRITICALZBUG
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ַי¬ÿÿÿÿÿHפRMAJORZ
 CODE_SMELL

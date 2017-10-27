@@ -1,17 +1,17 @@
 
-Bsquid:S2757"Was "-=" meant instead?(¯ëüÓùÿÿÿÿH…RMAJORZBUG
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÖšÁıÿÿÿÿH†RMAJORZ
-CODE_SMELL
-j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ç‘ğÿÿÿÿÿH‡RMAJORZ
+Bsquid:S2757"Was "-=" meant instead?(¯ëüÓùÿÿÿÿH³RMAJORZBUG
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ•¡ÅH´RMAJORZ
 CODE_SMELL
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(İ•¡ÅHˆRMAJORZ
-CODE_SMELL
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(Š¡«H‰RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¡«HµRMAJORZ
 CODE_SMELL
 j
-squid:S106#"9Replace this use of System.out or System.err by a logger.(…ôû¥şÿÿÿÿHŠRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÖšÁıÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç‘ğÿÿÿÿÿH·RMAJORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(…ôû¥şÿÿÿÿH¸RMAJORZ
 CODE_SMELL

@@ -1,15 +1,22 @@
 
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(îÉ‚ËúÿÿÿÿHÈRMINORZ
+CODE_SMELL
+asquid:S1172"(Remove this unused method parameter "i".(À¾Åöùÿÿÿÿ8œƒ‰±ß+HÅRMAJORZ
+CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(È°ùÇÿÿÿÿÿ8œƒ‰±ß+H½RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª¼ºùÿÿÿÿ8Ìğıè+HËRMAJORZ
 CODE_SMELL
-\squid:S1172"(Remove this unused method parameter "i".(‰ÈÂü8œƒ‰±ß+H¾RMAJORZ
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(¿Öë¨üÿÿÿÿ8œƒ‰±ß+HÇRMAJORZ
 CODE_SMELL
-Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(îÉ‚ËúÿÿÿÿHºRMINORZ
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÒà®øÿÿÿÿ8ÍÅà±ß+HÆRMAJORZ
 CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(è»¡ƒ8œƒ‰±ß+H¼RMAJORZ
+asquid:S1172"(Remove this unused method parameter "i".(˜ì¶˜úÿÿÿÿ8œƒ‰±ß+HÄRMAJORZ
 CODE_SMELL
-asquid:S1172"(Remove this unused method parameter "i".(çãêüÿÿÿÿ8œƒ‰±ß+H¿RMAJORZ
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑİÎ¤ıÿÿÿÿ8œƒ‰±ß+HÉRMAJORZ
 CODE_SMELL
-„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÒà®øÿÿÿÿ8ÍÅà±ß+HĞRMAJORZ
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬8¹©Áşè+HãRMAJORZ
+CODE_SMELL
+[squid:S1172 "(Remove this unused method parameter "f".(À§”*8¹©Áşè+HäRMAJORZ
 CODE_SMELL

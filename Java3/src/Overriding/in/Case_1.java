@@ -22,7 +22,8 @@ class Case_1 {
 	   System.out.println("cash,land,gold");
    }
    
-   public void marry(){
+   public void marry()
+   {
 	   
 	   System.out.println("old generation");
    }
@@ -30,7 +31,8 @@ class Case_1 {
    
    class C extends Case_1
    {
-	  public void marry(){
+	  public void marry()
+	  {
 		  System.out.println("new generation");
 	  }
    }
