@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteListener]">
+  <listeners>
+    <listener class-name="ListnerDemo.TestNGListner"/>
+  </listeners>
+  <test name="ABD(failed)">
+    <classes>
+      <class name="ListnerDemo.MyFirstTestCase">
+        <methods>
+          <include name="VerifyTitleNegativeTest"/>
+        </methods>
+      </class> <!-- ListnerDemo.MyFirstTestCase -->
+      <class name="ListnerDemo.MySecondTestCase">
+        <methods>
+          <include name="VerifyErrorMessageNegativeTest"/>
+        </methods>
+      </class> <!-- ListnerDemo.MySecondTestCase -->
+    </classes>
+  </test> <!-- ABD(failed) -->
+</suite> <!-- Failed suite [SuiteListener] -->

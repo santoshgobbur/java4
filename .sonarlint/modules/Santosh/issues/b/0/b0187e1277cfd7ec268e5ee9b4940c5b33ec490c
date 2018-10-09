@@ -1,0 +1,33 @@
+
+m
+squid:S106."9Replace this use of System.out or System.err by a logger.(¾‡çİ8Œ£Ê„,Hü RMAJORZ
+CODE_SMELL
+squid:HiddenFieldCheck#":Rename "driver" which hides the field declared at line 13.(¬ÌŸŞùÿÿÿÿ8òë¶Ê„,Hı RMAJORZ
+CODE_SMELL
+squid:HiddenFieldCheck":Rename "driver" which hides the field declared at line 13.(¬ÌŸŞùÿÿÿÿ8Œ£Ê„,Hş RMAJORZ
+CODE_SMELL
+‰squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä§å”øÿÿÿÿ8Œ£Ê„,Hÿ RMINORZ
+CODE_SMELL
+‹squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(„È¡éúÿÿÿÿH€¡RMINORZ
+CODE_SMELL
+‰squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯áãûÿÿÿÿ8Œ£Ê„,H¡RMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òÁÒÜ8øÁÒË„,H‚¡RMAJORZ
+CODE_SMELL
+Œsquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼õ¶”şÿÿÿÿ8Œ£Ê„,Hƒ¡RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¤£‡üÿÿÿÿ8°Ë–¯„,H„¡RMAJORZ
+CODE_SMELL
+‡squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òá”¾8Œ£Ê„,H…¡RMINORZ
+CODE_SMELL
+‡squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÈë§8Œ£Ê„,H†¡RMINORZ
+CODE_SMELL
+‡squid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¢ê´8Œ£Ê„,H‡¡RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(„Ú“üÿÿÿÿ8ıİËË„,Hˆ¡RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·»ñ8üÇ¾Í„,H‰¡RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏˆÍ8è€“Í„,HŠ¡RMAJORZ
+CODE_SMELL

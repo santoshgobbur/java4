@@ -1,0 +1,32 @@
+package com.scp.businesslogic;
+
+import static io.restassured.RestAssured.*;
+
+import org.testng.annotations.Test;
+
+
+
+public class D2 {
+	
+	@Test
+	public void postRequest(){
+		
+		//RestAssured.baseURI = "";
+		
+		baseURI = "https://reqres.in";
+		
+		given().
+		param("Content-Type","application/json").
+		body("{"+
+   "/"email/": /"sydney@fife/"+,
+    /"password/": /"pistol/"
+"}"+)
+		
+		when().
+		post("/api/register").
+		
+		
+		
+	}
+
+}

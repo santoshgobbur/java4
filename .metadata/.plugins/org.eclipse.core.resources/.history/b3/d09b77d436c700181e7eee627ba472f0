@@ -1,0 +1,30 @@
+package com.scp.businesslogic;
+
+import static io.restassured.RestAssured.*;
+import io.restassured.RestAssured;
+
+class D1 {
+
+	public static void main(String[] args) {
+
+		RestAssured.baseURI="https://reqres.in";
+	
+		RestAssured.baseURI = "https://reqres.in";
+		given().
+		param("page","2");
+		
+		when().
+		get("/api/users");
+		
+		then().
+	    statusCode(200);
+		
+				
+	}
+
+	private static Object then() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+  
+}

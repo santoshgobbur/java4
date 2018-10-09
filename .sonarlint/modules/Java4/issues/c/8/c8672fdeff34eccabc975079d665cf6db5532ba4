@@ -1,0 +1,47 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï®ÚŸýÿÿÿÿ8Ëÿåº”,HÖ^RMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "s1" local variable.(ßÜí‰ùÿÿÿÿ8»Á…®”,H×^RMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "s3".(ž©Ê×þÿÿÿÿ8»Á…®”,HØ^RMAJORZ
+CODE_SMELL
+Zsquid:S2129"!Remove this "Integer" constructor(‹Ñ¥œüÿÿÿÿ8ÏÐ„®”,HÙ^RMAJORZ
+CODE_SMELL
+{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸èÖ™HÚ^RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡àÁz8°ûØº”,HÛ^RMAJORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "y".(‹Ñ¥œüÿÿÿÿ8¸þý®”,HÜ^RMAJORZ
+CODE_SMELL
+isquid:S1854"6Remove this useless assignment to local variable "x1".(ý÷­68¸þý®”,HÝ^RMAJORZ
+CODE_SMELL
+nsquid:S1854
+"5Remove this useless assignment to local variable "x".(ìÌÖäøÿÿÿÿ8¸þý®”,HÞ^RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÀ—úÿÿÿÿ8Å÷–¯”,Hß^RMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "s1".(ßÜí‰ùÿÿÿÿ8»Á…®”,Hà^RMAJORZ
+CODE_SMELL
+Ssquid:S2129" Remove this "String" constructor(´¢=8¦åé™,Há^RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÈÙÜö8°ûØº”,Hâ^RMAJORZ
+CODE_SMELL
+Ysquid:S2129" Remove this "String" constructor(ªÃ”Çúÿÿÿÿ8“Ãê™,Hã^RMAJORZ
+CODE_SMELL
+_squid:S1481
+"&Remove this unused "x" local variable.(ìÌÖäøÿÿÿÿ8¸þý®”,Hä^RMINORZ
+CODE_SMELL
+Zsquid:S1481"'Remove this unused "x1" local variable.(ý÷­68¸þý®”,Hå^RMINORZ
+CODE_SMELL
+Zsquid:S2129
+"!Remove this "Integer" constructor(ìÌÖäøÿÿÿÿ8”ñ®”,Hæ^RMAJORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "y" local variable.(‹Ñ¥œüÿÿÿÿ8¸þý®”,Hç^RMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "s3" local variable.(ž©Ê×þÿÿÿÿ8»Á…®”,Hè^RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îûùøÿÿÿÿ8ò­‹®”,Hé^RMAJORZ
+CODE_SMELL

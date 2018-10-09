@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteListener">
+<test name="test1"/>
+<parameter name="url" value="http://opensource.demo.orangehrmlive.com/"/>
+    <classes>
+      <class name="com.testng.NewTest1"/>
+    </classes>
+  </test> 
+</suite>

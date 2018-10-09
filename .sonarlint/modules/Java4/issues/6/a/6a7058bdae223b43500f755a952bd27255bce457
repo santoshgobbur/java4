@@ -1,0 +1,22 @@
+
+csquid:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH£jRINFOZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(º ³8‚‘¨•,H¤jRMAJORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠƒÆ8†¡ç¤•,H¥jRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É†«â8Ú¨†¨•,H¦jRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ¨Ä•ÿÿÿÿÿ8ÄóË§•,H§jRMAJORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¤Ïå¤•,H¨jRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8…»„¨•,H©jRMAJORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(º‡Û¦ÿÿÿÿÿ8×Û¨•,HªjRMAJORZ
+CODE_SMELL

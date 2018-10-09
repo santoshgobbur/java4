@@ -1,0 +1,8 @@
+
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÚ¦î8Ú‰áÚ³,H«—RMAJORZ
+CODE_SMELL
+…squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÐøÇÁ8óÀŠ³,H¬—RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8Õê»Ú³,H­—RMAJORZ
+CODE_SMELL

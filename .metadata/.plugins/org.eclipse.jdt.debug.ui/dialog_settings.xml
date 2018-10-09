@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sele/src&amp;lt;com.scp.basic{Cl1.java[Cl1[Cl2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java3/src&amp;lt;Overriding.in{Case_1.java[Case_1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java3/src&amp;lt;ControlFlow{Base.java[Base&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java3/src&amp;lt;ControlFlow{Base.java[Derived&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;Overriding{A.java[A&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;Overriding{P1.java[P1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;Overriding{Case1.java[Case1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;Encap{A.java[A&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;OverLoading{Demo1.java[Demo1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp{Society.java[Local&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp{Company1.java[Company1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp{Company.java[I&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.ctp{D1.java[D1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.xyz{X.java[X&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.Keywords{Demo2.java[Demo2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.Keywords{Demo1.java[Demo1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.rtp{R2.java[R2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.Abstraction{A1.java[A11&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.ctp{D2.java[D2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Java4/src&amp;lt;com.scp.rtp{R3.java[R3&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
@@ -10,5 +10,11 @@
 			<item value="391" key="DIALOG_X_ORIGIN"/>
 			<item value="39" key="DIALOG_Y_ORIGIN"/>
 		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item value="500" key="SashWeightTree"/>
+		<item value="500" key="SashWeightDetails"/>
+		<item value="614" key="WIDTH"/>
+		<item value="194" key="HEIGHT"/>
 	</section>
 </section>

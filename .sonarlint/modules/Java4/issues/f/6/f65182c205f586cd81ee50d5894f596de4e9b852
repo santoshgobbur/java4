@@ -1,0 +1,38 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁË½½úÿÿÿÿ8îì†¾ž,H©1RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(€Åˆp8³äÇÇ¢,Hª1RMAJORZ
+CODE_SMELL
+Tsquid:S2129" Remove this "String" constructor(Š“¿8™¨Ø½ž,H«1RMAJORZ
+CODE_SMELL
+]squid:S1481")Remove this unused "str4" local variable.(ú¹üÍ8îì†¾ž,H¬1RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÜû¤8µÜºÇ¢,H­1RMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(â’â¨ùÿÿÿÿ8™œ·Ç¢,H®1RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãøð8¯Ï¾ž,H¯1RMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH°1RINFOZ
+CODE_SMELL
+Tsquid:S2129	" Remove this "String" constructor(Ë¿¤ê8™¨Ø½ž,H±1RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ëú‹8ÄšÌ¿ž,H²1RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Þ©ý|8†ïÂÇ¢,H³1RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙËÑÖ8¿ºÅÇ¢,H´1RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¾Îü8×Ý½ž,Hµ1RMAJORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "str4".(ú¹üÍ8îì†¾ž,H¶1RMAJORZ
+CODE_SMELL

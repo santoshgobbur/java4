@@ -1,7 +1,7 @@
 
-Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÕüûùøÿÿÿÿHì!RMINORZ
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÕüûùøÿÿÿÿHº:RMINORZ
 CODE_SMELL
-ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Õì8Ÿ˜´Øñ+Hí!RMINORZ
+ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Õì8Ÿ˜´Øñ+H»:RMINORZ
 CODE_SMELL
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ç¾«İ8Ÿ˜´Øñ+Hî!RMAJORZ
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ç¾«İ8Ÿ˜´Øñ+H¼:RMAJORZ
 CODE_SMELL

@@ -1,0 +1,33 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ùü³Óÿÿÿÿÿ8ä¸Ùý”,H˜aRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýÀ¨÷ùÿÿÿÿ8´èÕî,H—aRMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ôî˜ùüÿÿÿÿ8¥Øë€•,H¨aRMAJORZ
+CODE_SMELL
+’squid:S1171,"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ßú¯ ,HŸaRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰¨ë«8¥Øë€•,H§aRMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ü‡ÔÃüÿÿÿÿH™aRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ8ËŠì€•,H©aRMAJORZ
+CODE_SMELL
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(„²óØ8ŒÈî,H–aRMAJORZ
+CODE_SMELL
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8£ÜÍ ,HaRMAJORZ
+CODE_SMELL
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(·Õ’ú8ŒÈî,H›aRMAJORZ
+CODE_SMELL
+‚squid:S00101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªåÏ8ŒÈî,HžaRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Ÿ˜Ëüÿÿÿÿ8¥Øë€•,H¦aRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦˜¥ þÿÿÿÿ8Ç­Äý”,H aRMAJORZ
+CODE_SMELL

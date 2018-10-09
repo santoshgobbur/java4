@@ -1,0 +1,19 @@
+
+€squid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(§¿Îî8ŸÁÈÁ´,Hµ—RMAJORZ
+CODE_SMELL
+Žsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ú³Û8Ç…§ò³,H¸—RMINORZ
+CODE_SMELL
+Žsquid:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(à²œÃ8–üˆó³,H´—RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(ž„ûÿÿÿÿ8¿¤ýÄ´,Hº—RMAJORZ
+CODE_SMELL
+r
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ãÄºÿÿÿÿÿ8ñ Ðî³,H¹—RMAJORZ
+CODE_SMELL
+r
+squid:S106M"9Replace this use of System.out or System.err by a logger.(‚É¬Œÿÿÿÿÿ8Ç…§ò³,H·—RMAJORZ
+CODE_SMELL
+“squid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(îýâèûÿÿÿÿ8ñ Ðî³,H¶—RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8¿¤ýÄ´,H³—RMINORZ
+CODE_SMELL

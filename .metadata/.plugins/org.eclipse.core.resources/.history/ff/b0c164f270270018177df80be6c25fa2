@@ -1,0 +1,36 @@
+package com.scp.rtp;
+
+public class R2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        
+		R2 r2 = new R2();
+		R_2 r_2 = new R_2();
+		R2 hbd = new R_2();
+		
+		hbd.printM();
+		
+		//r2.printMS();
+		//hbd.printMS();
+	}
+
+	 public static void printM(){
+		 System.out.println("print R2");
+	 }
+	 private static void printMS(){
+		 System.out.println("printMS R_2");
+	 }
+	 
+}
+
+class R_2 extends R2{
+	
+	 public static void printM(){
+		 System.out.println("print R_2");
+	 }
+	 private static void printMS(){
+		 System.out.println("printMS R_2");
+	 }
+	
+}

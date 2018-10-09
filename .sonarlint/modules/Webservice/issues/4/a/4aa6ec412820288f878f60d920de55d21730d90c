@@ -1,0 +1,10 @@
+
+Ù%squid:RedundantThrowsDeclarationCheck"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(éŠú™8ÞÖÑóª,H¸µRMINORZ
+CODE_SMELL
+{squid:HiddenFieldCheck";Rename "httpres" which hides the field declared at line 14.(¨‘›°8¼‘Öôª,H¹µRMAJORZ
+CODE_SMELL
+£squid:S1319"nThe type of the "header" object should be an interface such as "Map" rather than the implementation "HashMap".(éŠú™8ÞÖÑóª,HºµRMINORZ
+CODE_SMELL
+”squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "httpres".(¨‘›°8¼‘Öôª,H»µRMINORZ
+CODE_SMELL
+lsquid:S2095"7Close this "CloseableHttpClient" in a "finally" clause.(¥Ÿþ»øÿÿÿÿ8ÞÖÑóª,H¼µRBLOCKERZBUG

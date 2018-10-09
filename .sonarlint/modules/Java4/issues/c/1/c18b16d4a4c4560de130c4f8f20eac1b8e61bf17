@@ -1,0 +1,16 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì«Ò¯üÿÿÿÿ8•…–ë¯,H÷nRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(å°È¶úÿÿÿÿ8Ðá›ë¯,HønRMAJORZ
+CODE_SMELL
+nsquid:S1854":Remove this useless assignment to local variable "result".(ÊÛú«8³ãŒƒ°,HùnRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚Š¨íûÿÿÿÿ8Ðá›ë¯,HúnRMAJORZ
+CODE_SMELL
+dsquid:S1481	"+Remove this unused "result" local variable.(ÑûÃÇûÿÿÿÿ8³ãŒƒ°,HûnRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“–íÚ8³ãŒƒ°,HünRMAJORZ
+CODE_SMELL

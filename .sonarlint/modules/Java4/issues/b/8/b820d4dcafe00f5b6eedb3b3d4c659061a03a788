@@ -1,0 +1,31 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ää‹žûÿÿÿÿ8Ê‡ºÝ³,HÃpRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(äŒª8¬Ð“ê›,HÅpRMAJORZ
+CODE_SMELL
+Ysquid:S2129
+" Remove this "String" constructor(–Òøçÿÿÿÿÿ8ð¸ïàž,HÇpRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ƒ÷Ø8·à÷àž,HÊpRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(õò³Ñúÿÿÿÿ8’©‘ê›,HÌpRMAJORZ
+CODE_SMELL
+’squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(û‘A8†Ÿòàž,HÎpRMAJORZ
+CODE_SMELL
+“squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(à¸’®8ÍÈõàž,HÐpRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïóÈôÿÿÿÿÿ8áû·Ý³,HÒpRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï‹ì™ÿÿÿÿÿ8ÍÈõàž,HÔpRMAJORZ
+CODE_SMELL
+‚squid:S1192	"KDefine a constant instead of duplicating this literal "you r hero" 3 times.(þˆèº8ð¸ïàž,HÖpRCRITICALZ
+CODE_SMELL
+Ysquid:S2129	" Remove this "String" constructor(˜ãŠˆøÿÿÿÿ8ð¸ïàž,HÙpRMAJORZ
+CODE_SMELL
+^squid:S1135"2Complete the task associated to this TODO comment.(„ÌÿÂHÚpRINFOZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+C
+Resource/email.json,9\6\961f02a9cfdc610957eb03c92d104b8068b3bd3d
+6
+my.xml,e\9\e9ac5eff3d016740817600fc73af73e32de63d6f
+7
+API.xml,b\3\b3a72bde3234fdf22a09ff63b360843b73059376

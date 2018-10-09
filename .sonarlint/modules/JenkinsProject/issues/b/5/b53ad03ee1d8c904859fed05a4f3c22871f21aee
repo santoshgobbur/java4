@@ -1,0 +1,11 @@
+
+Xsquid:S1148"#Use a logger to log this exception.(‰œ‰ÕúÿÿÿÿH°KRMINORZVULNERABILITY
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH±KRINFOZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÛ…¾H²KRMAJORZ
+CODE_SMELL
+gsquid:S1118	":Add a private constructor to hide the implicit public one.(‚«Í£H³KRMAJORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(ÂşÿâûÿÿÿÿH´KRMINORZVULNERABILITY
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHµKRINFOZ
+CODE_SMELL

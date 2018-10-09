@@ -1,0 +1,41 @@
+
+ƒsquid:HiddenFieldCheck!">Rename "httpclient" which hides the field declared at line 19.(‘óÁûÿÿÿÿ8û…ƒòª,Hü¼RMAJORZ
+CODE_SMELL
+Ş%squid:RedundantThrowsDeclarationCheck"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ï¥Ëûüÿÿÿÿ8¶Ìµ£ª,Hı¼RMINORZ
+CODE_SMELL
+lsquid:S2095"7Close this "CloseableHttpClient" in a "finally" clause.(‘óÁûÿÿÿÿ8œ½Ú†ª,Hş¼RBLOCKERZBUG
+Ş%squid:RedundantThrowsDeclarationCheck"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ìÃ­´øÿÿÿÿ8˜—ıïª,Hÿ¼RMINORZ
+CODE_SMELL
+ƒsquid:HiddenFieldCheck">Rename "httpclient" which hides the field declared at line 19.(‘óÁûÿÿÿÿ8û…ƒòª,H€½RMAJORZ
+CODE_SMELL
+Ş%squid:RedundantThrowsDeclarationCheckA"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(î–Äüÿÿÿÿ8öç×ª,H½RMINORZ
+CODE_SMELL
+¥squid:S13190"qThe type of the "headerMap" object should be an interface such as "Map" rather than the implementation "HashMap".(­’¸g8ïó¯£ª,H‚½RMINORZ
+CODE_SMELL
+¢squid:S1488;"mImmediately return this expression instead of assigning it to the temporary variable "closeablehttpresponse".(àÓ¯ò8öç×ª,Hƒ½RMINORZ
+CODE_SMELL
+lsquid:S2095!"7Close this "CloseableHttpClient" in a "finally" clause.(‘óÁûÿÿÿÿ8ªÓÖª,H„½RBLOCKERZBUG
+squid:UselessImportCheck"FRemove this unused import 'org.apache.http.client.methods.HttpDelete'.(é²»ùÿÿÿÿ8 ˜Ñÿ´,H…½RMINORZ
+CODE_SMELL
+‰squid:HiddenFieldCheck;"IRename "closeablehttpresponse" which hides the field declared at line 18.(àÓ¯ò8‰À™£ª,H†½RMAJORZ
+CODE_SMELL
+Ø%squid:RedundantThrowsDeclarationCheck0"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(­’¸g8ªÓÖª,H‡½RMINORZ
+CODE_SMELL
+lsquid:S20952"7Close this "CloseableHttpClient" in a "finally" clause.(‘óÁûÿÿÿÿ8‰À™£ª,Hˆ½RBLOCKERZBUG
+gsquid:S2095C"7Close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8‚±ÀÜª,H‰½RBLOCKERZBUG
+ƒsquid:HiddenFieldCheck2">Rename "httpclient" which hides the field declared at line 19.(‘óÁûÿÿÿÿ8û…ƒòª,HŠ½RMAJORZ
+CODE_SMELL
+«squid:S1319"qThe type of the "headerMap" object should be an interface such as "Map" rather than the implementation "HashMap".(ï¥Ëûüÿÿÿÿ8ªÓÖª,H‹½RMINORZ
+CODE_SMELL
+squid:HiddenFieldCheckL"IRename "closeablehttpresponse" which hides the field declared at line 18.(µÀ†¶ÿÿÿÿÿ8˜—ıïª,HŒ½RMAJORZ
+CODE_SMELL
+«squid:S1319A"qThe type of the "headerput" object should be an interface such as "Map" rather than the implementation "HashMap".(î–Äüÿÿÿÿ8‚±ÀÜª,H½RMINORZ
+CODE_SMELL
+§squid:S1488*"mImmediately return this expression instead of assigning it to the temporary variable "closeablehttpresponse".(»ø™§ıÿÿÿÿ8¬ú½£ª,H½RMINORZ
+CODE_SMELL
+~squid:HiddenFieldCheckC">Rename "httpclient" which hides the field declared at line 19.(™ıÄ“8û…ƒòª,H½RMAJORZ
+CODE_SMELL
+squid:HiddenFieldCheck*"IRename "closeablehttpresponse" which hides the field declared at line 18.(»ø™§ıÿÿÿÿ8öç×ª,H½RMAJORZ
+CODE_SMELL
+§squid:S1488L"mImmediately return this expression instead of assigning it to the temporary variable "closeablehttpresponse".(µÀ†¶ÿÿÿÿÿ8˜—ıïª,H‘½RMINORZ
+CODE_SMELL

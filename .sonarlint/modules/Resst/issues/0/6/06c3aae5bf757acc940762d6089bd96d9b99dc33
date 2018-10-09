@@ -1,0 +1,9 @@
+
+ssquid:S2696"6Make the enclosing method "static" or remove this set.(“©¢‡üÿÿÿÿ8ëªÍµå,HÁÂRCRITICALZ
+CODE_SMELL
+•squid:UselessImportCheck"NRemove this unused import 'io.restassured.specification.RequestSpecification'.(«‘ÏÜþÿÿÿÿ8ëªÍµå,HÂÂRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç³¯j8ºœ“£å,HÃÂRMAJORZ
+CODE_SMELL
+~squid:UselessImportCheck"<Remove this unused import 'io.restassured.http.ContentType'.(Žïè‘8åÊÕ¥å,HÄÂRMINORZ
+CODE_SMELL

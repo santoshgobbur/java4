@@ -1,0 +1,47 @@
+
+msquid:S1161>":Add the "@Override" annotation above this method signature(Ã—8´æ«Â,HşIRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "s4" local variable.(¯ÖîË8º¯¢Å,HÿIRMINORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(‘ªüëûÿÿÿÿ8ºèìÁ,H€JRMAJORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Â¤üÿÿÿÿ8ºèìÁ,HJRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÍ¹“8º¯¢Å,H‚JRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è¥îÄ8›èËÅ,HƒJRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹×û²8åÍ›Å,H„JRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÃÓÃ8éğóÁ,H…JRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "s2".(ÄˆÊ‘8”¢ÏÄ,H†JRMAJORZ
+CODE_SMELL
+q
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Š‡øÿÿÿÿÿÿ8„Â,H‡JRMAJORZ
+CODE_SMELL
+l
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ëşØş8´æ«Â,HˆJRMAJORZ
+CODE_SMELL
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(®‚ß·8ùÕ¶Å,H‰JRMAJORZ
+CODE_SMELL
+l
+squid:S106?"9Replace this use of System.out or System.err by a logger.(Í¬‚¨8ÙšÂ,HŠJRMAJORZ
+CODE_SMELL
+ssquid:S11617":Add the "@Override" annotation above this method signature(«Â¤üÿÿÿÿ8ùÕ¶Å,H‹JRMAJORZ
+CODE_SMELL
+q
+squid:S106<"9Replace this use of System.out or System.err by a logger.(— òşÿÿÿÿ8ÙšÂ,HŒJRMAJORZ
+CODE_SMELL
+ssquid:S1161'":Add the "@Override" annotation above this method signature(«Â¤üÿÿÿÿ8ùŸ±Å,HJRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "s4".(¯ÖîË8º¯¢Å,HJRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "s2" local variable.(ÄˆÊ‘8”¢ÏÄ,HJRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À‰¦8³ôÙÃ,HJRMAJORZ
+CODE_SMELL

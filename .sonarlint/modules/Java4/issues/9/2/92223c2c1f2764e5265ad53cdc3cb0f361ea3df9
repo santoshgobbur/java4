@@ -1,0 +1,9 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8ù‡Û¶Ÿ,HÙmRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(éĞÈ¢8Ë¡å·Ÿ,HÚmRMAJORZ
+CODE_SMELL
+rsquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¤ş’¸Ÿ,HÛmRMINORZ
+CODE_SMELL

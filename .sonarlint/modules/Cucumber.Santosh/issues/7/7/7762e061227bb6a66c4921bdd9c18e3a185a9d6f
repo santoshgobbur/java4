@@ -1,0 +1,49 @@
+
+§"squid:ClassVariableVisibilityCheck"TMake password a static final constant or non-public and provide accessors if needed.(Ïüîóşÿÿÿÿ8˜¥œÜ¨,Hù%RMINORZVULNERABILITY
+squid:S1845"gRename field "userName" to prevent any misunderstanding/clash with field "username" defined on line 20.(ûö™ª8÷§ıŞ¨,Hİ%RBLOCKERZ
+CODE_SMELL
+hsquid:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8˜¥œÜ¨,Hû%RMINORZVULNERABILITY
+ƒsquid:S00100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŸ8˜¥œÜ¨,Hç%RMINORZ
+CODE_SMELL
+‰squid:S00100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¶àÄùÿÿÿÿ8˜¥œÜ¨,HÛ%RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(§É¯ãùÿÿÿÿ8—Èß¨,Hğ%RMAJORZ
+CODE_SMELL
+ˆsquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÔÀ’ûÿÿÿÿ8˜¥œÜ¨,Hß%RMINORZ
+CODE_SMELL
+§"squid:ClassVariableVisibilityCheck"TMake username a static final constant or non-public and provide accessors if needed.(æ¢Ò€ûÿÿÿÿ8˜¥œÜ¨,Hå%RMINORZVULNERABILITY
+„squid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(Æ÷úÿÿÿÿ8¯‘ãà¨,HÕ%RMAJORZ
+CODE_SMELL
+¥"squid:ClassVariableVisibilityCheck"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8˜¥œÜ¨,Hé%RMINORZVULNERABILITY
+„squid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8·¶¸õ¨,HÑ%RMAJORZ
+CODE_SMELL
+_squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·”‚è¨,Hõ%RMINORZVULNERABILITY
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ØÚí®Hø%RMINORZ
+CODE_SMELL
+‚squid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şªç`8˜¥œÜ¨,Hë%RMINORZ
+CODE_SMELL
+ƒsquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íõî8˜¥œÜ¨,H×%RMINORZ
+CODE_SMELL
+msquid:S2696$"6Make the enclosing method "static" or remove this set.(Âéã±8˜¥œÜ¨,H÷%RCRITICALZ
+CODE_SMELL
+Šsquid:S00116"PRename this field "Users" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÙ’Üşÿÿÿÿ8˜¥œÜ¨,Hô%RMINORZ
+CODE_SMELL
+ˆsquid:S00100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¼çäûÿÿÿÿ8—Èß¨,HÍ%RMINORZ
+CODE_SMELL
+„squid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Â°¤8˜¥œÜ¨,HÏ%RMINORZ
+CODE_SMELL
+ssquid:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8·”‚è¨,Hö%RMAJORZBUG
+jsquid:S1135K"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8·”‚è¨,HÓ%RINFOZ
+CODE_SMELL
+‰squid:S00100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì™Ä¶úÿÿÿÿ8˜¥œÜ¨,Hî%RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(“î“8˜®õ¨,Hú%RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(™˜Â²ùÿÿÿÿ8½£Ìè¨,Hò%RMAJORZ
+CODE_SMELL
+ƒsquid:S00100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æªãø8—Èß¨,HË%RMINORZ
+CODE_SMELL
+|squid:S1192,"FDefine a constant instead of duplicating this literal "Admin" 3 times.(Ç·Ø8çªûû¨,H€&RCRITICALZ
+CODE_SMELL
+„squid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ŒÍú¹ÿÿÿÿÿ8çªûû¨,H&RMAJORZ
+CODE_SMELL

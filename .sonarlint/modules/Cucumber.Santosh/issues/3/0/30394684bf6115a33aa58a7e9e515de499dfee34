@@ -1,0 +1,30 @@
+
+§"squid:ClassVariableVisibilityCheck"TMake username a static final constant or non-public and provide accessors if needed.(æ¢Ò€ûÿÿÿÿ8€÷ÞØ¨,HìBRMINORZVULNERABILITY
+squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ß†¨ö8ÄÝÙ¨,HíBRMAJORZ
+CODE_SMELL
+§"squid:ClassVariableVisibilityCheck"TMake password a static final constant or non-public and provide accessors if needed.(Ïüîóþÿÿÿÿ8€÷ÞØ¨,HîBRMINORZVULNERABILITY
+hsquid:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8«•ˆÙ¨,HïBRMINORZVULNERABILITY
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¼ÿàä8þ´Ø¨,HðBRMAJORZ
+CODE_SMELL
+¥"squid:ClassVariableVisibilityCheck"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8€÷ÞØ¨,HñBRMINORZVULNERABILITY
+ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž…‰Å8þ´Ø¨,HòBRMINORZ
+CODE_SMELL
+ƒsquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â“Ãá8þ´Ø¨,HóBRMINORZ
+CODE_SMELL
+msquid:S2696"6Make the enclosing method "static" or remove this set.(Âéã±8«•ˆÙ¨,HôBRCRITICALZ
+CODE_SMELL
+„squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(”™ì«þÿÿÿÿ8ÄÝÙ¨,HõBRMAJORZ
+CODE_SMELL
+¡"squid:ClassVariableVisibilityCheck"NMake js a static final constant or non-public and provide accessors if needed.(Ì¡æ–øÿÿÿÿ8€÷ÞØ¨,HöBRMINORZVULNERABILITY
+l
+squid:S106="9Replace this use of System.out or System.err by a logger.(´³‚‡8æÕèØ¨,H÷BRMAJORZ
+CODE_SMELL
+ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çêË™8þ´Ø¨,HøBRMINORZ
+CODE_SMELL
+ˆsquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( êä†ÿÿÿÿÿ8þ´Ø¨,HùBRMINORZ
+CODE_SMELL
+ˆsquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÈÓÅþÿÿÿÿ8þ´Ø¨,HúBRMINORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ØÚí®HûBRMINORZ
+CODE_SMELL

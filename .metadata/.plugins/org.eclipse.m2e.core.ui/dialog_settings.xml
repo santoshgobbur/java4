@@ -2,12 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="test.org"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="SeleniumMaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -35,6 +33,11 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="D:\Selenium\Clonning\JenkinsProject"/>
+			<item value="D:\Selenium\code\Webservice"/>
+			<item value="D:\Selenium\code\Webservice.Santosh"/>
+			<item value="D:\Selenium\code\OrangeHRMTest"/>
+			<item value="D:\Selenium\code\Cucumber.Santosh"/>
+			<item value="D:\Selenium\code\Yogeshsir\seleniumFromScratch"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -67,6 +70,10 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Selenium\code\RestAssured\pom.xml"/>
+			<item value="D:\Selenium\code\OrangeHRMTest\pom.xml"/>
+			<item value="D:\Selenium\code\OrangeHRMTest"/>
+			<item value="D:\Selenium\Clonning\JenkinsProject\src\test\java\com\scp\webservice\Demo2.java"/>
 			<item value="D:\Selenium\code\SeleniumMaven\src\test\java"/>
 			<item value="D:\Selenium\code\SeleniumMaven"/>
 			<item value="D:\Selenium\code\Project1"/>
@@ -81,12 +88,25 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org."/>
+			<item value="ResstAssured.Rest"/>
+			<item value="ResstAssured.RestAssured"/>
+			<item value="BDDFramework.BDDframework"/>
+			<item value="CucumberFramework.BDD"/>
+			<item value="CucumberFramework.cucumber"/>
 		</list>
 		<list key="groupId">
-			<item value="test.org"/>
+			<item value="RestAssured"/>
+			<item value="Resst Assured"/>
+			<item value="BDDFramework"/>
+			<item value="CucumberFramework"/>
 		</list>
 		<list key="artifactId">
+			<item value="Resst"/>
+			<item value="Rest"/>
+			<item value="Rest Assured"/>
+			<item value="BDDframework"/>
+			<item value="BDD"/>
+			<item value="cucumber"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

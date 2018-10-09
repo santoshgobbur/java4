@@ -1,0 +1,12 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ8·¯û€²,H®eRMAJORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²¨ ãH«eRMINORZ
+CODE_SMELL
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8·¯û€²,H¯eRMINORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8·¯û€²,H­eRMAJORZ
+CODE_SMELL

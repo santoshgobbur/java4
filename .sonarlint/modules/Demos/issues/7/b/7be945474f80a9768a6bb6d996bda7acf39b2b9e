@@ -1,0 +1,9 @@
+
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±øÓ—ýÿÿÿÿHãÂRMAJORZ
+CODE_SMELL
+dsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHäÂRINFOZ
+CODE_SMELL
+^squid:S1481"+Remove this unused "driver" local variable.(¨Œë±ýÿÿÿÿHåÂRMINORZ
+CODE_SMELL
+msquid:S1854":Remove this useless assignment to local variable "driver".(¨Œë±ýÿÿÿÿHæÂRMAJORZ
+CODE_SMELL

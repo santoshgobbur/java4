@@ -1,0 +1,7 @@
+
+usquid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(ò≥…”8„ò®éü,H…cRMINORZ
+CODE_SMELL
+∏squid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«µÌë8Õ§¸çü,H cRCRITICALZ
+CODE_SMELL
+Ösquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(≤®†„HÀcRMINORZ
+CODE_SMELL

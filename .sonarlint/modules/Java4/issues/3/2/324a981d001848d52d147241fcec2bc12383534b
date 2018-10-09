@@ -1,0 +1,22 @@
+
+osquid:S1854"5Remove this useless assignment to local variable "c".(É¢¥èøÿÿÿÿ8ô¬—Ô³,HÉRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8éãƒ¶±,HÅRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×‡üÿÿÿÿ8™áœà²,HÊRMAJORZ
+CODE_SMELL
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(øâ†şÿÿÿÿ8ãÅ´,HÇRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ÖıÊøÿÿÿÿ8¨×üÙ½,HúRMAJORZ
+CODE_SMELL
+`squid:S1481"&Remove this unused "s" local variable.(¸á…ÿÿÿÿÿ8¢¯’Ô³,HÈRMINORZ
+CODE_SMELL
+r
+squid:S106 "9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8éãƒ¶±,HÂRMAJORZ
+CODE_SMELL
+`squid:S1481"&Remove this unused "c" local variable.(É¢¥èøÿÿÿÿ8ô¬—Ô³,HÀRMINORZ
+CODE_SMELL
+osquid:S1854"5Remove this useless assignment to local variable "s".(¸á…ÿÿÿÿÿ8¢¯’Ô³,HÁRMAJORZ
+CODE_SMELL

@@ -17,9 +17,9 @@ public class Test1 {
 	@Test
 	public void f() {
 
-		d.findElement(By.xpath("//a[contains( text(),'Log in')]")).click();
-		d.findElement(By.id("login-mobile")).sendKeys("9545635856");
-		d.findElement(By.id("login-password")).sendKeys("654321");
+		d.findElement(By.id("txtUsername")).sendKeys("Admin");
+		d.findElement(By.id("txtPassword")).sendKeys("admin");
+		d.findElement(By.id("btnLogin")).click();
 	
 
 	}
@@ -49,11 +49,11 @@ public class Test1 {
 		{
 			System.out.println("browser not available");
 		}
-		d.get("https://en-gb.facebook.com/login/");
+		d.get("http://opensource.demo.orangehrmlive.com/");
 	}
 
 	@AfterTest
 	public void afterTest() {
-		d.quit();
+		d.close();
 	}
 }

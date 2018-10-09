@@ -1,0 +1,14 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(–¶Éøÿÿÿÿ8á¤æÒ±,HÔ_RMAJORZ
+CODE_SMELL
+tsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(ÚÜ†Ãûÿÿÿÿ8Í¹ÓÓ±,H×_RMINORZ
+CODE_SMELL
+esquid:S1135"2Complete the task associated to this TODO comment.(„ÌÿÂ8ÄŠòÒ±,HÙ_RINFOZ
+CODE_SMELL
+‡squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸’Òçûÿÿÿÿ8„‘‘Ô±,HÛ_RMINORZ
+CODE_SMELL
+wsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8š˜Ô±,Hİ_RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õ‹¥ùÿÿÿÿ8„¨Ô±,Hß_RMAJORZ
+CODE_SMELL

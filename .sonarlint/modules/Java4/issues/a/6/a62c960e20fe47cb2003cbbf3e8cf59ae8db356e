@@ -1,0 +1,36 @@
+
+psquid:S1854"6Remove this useless assignment to local variable "b2".(±àøÿÿÿÿ8£’¬Ÿ,H÷áRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü¶È×ÿÿÿÿÿ8£’¬Ÿ,HøáRMAJORZ
+CODE_SMELL
+\squid:S1481"'Remove this unused "s1" local variable.(¦»í›8¸éÒ«Ÿ,HùáRMINORZ
+CODE_SMELL
+asquid:S1481"'Remove this unused "b2" local variable.(±àøÿÿÿÿ8£’¬Ÿ,HúáRMINORZ
+CODE_SMELL
+\squid:S1481	"'Remove this unused "s2" local variable.(ÂñĞÀ8¸éÒ«Ÿ,HûáRMINORZ
+CODE_SMELL
+ksquid:S1854	"6Remove this useless assignment to local variable "s2".(ÂñĞÀ8¸éÒ«Ÿ,HüáRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8‰çªŸ,HıáRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªš›Ó8¸éÒ«Ÿ,HşáRMAJORZ
+CODE_SMELL
+asquid:S1481"'Remove this unused "b1" local variable.(Í¨—íüÿÿÿÿ8£’¬Ÿ,HÿáRMINORZ
+CODE_SMELL
+psquid:S1854"6Remove this useless assignment to local variable "b1".(Í¨—íüÿÿÿÿ8£’¬Ÿ,H€âRMAJORZ
+CODE_SMELL
+ksquid:S1854"6Remove this useless assignment to local variable "s1".(¦»í›8¸éÒ«Ÿ,HâRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(‰‡ ×úÿÿÿÿ8¸éÒ«Ÿ,H‚âRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ñÈ¬Ÿ,HƒâRMAJORZ
+CODE_SMELL
+ssquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(–œùƒúÿÿÿÿ8£’¬Ÿ,H„âRMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò³§è8Âö¬Ÿ,H…âRMAJORZ
+CODE_SMELL
+squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÀÑ«úÿÿÿÿH†âRMINORZ
+CODE_SMELL

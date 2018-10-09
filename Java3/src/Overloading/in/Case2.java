@@ -4,22 +4,27 @@ public class Case2 {
 
 	public static void main(String[] args) {
 		
-		Case2 t = new Case2();
-		t.m2("sfr");
-		t.m2(new Object());
-		t.m2("null");
 		
-		
-	}
 	
-	public void m2(String s){
 		
-		System.out.println("string-arg method");
-	}
+   }
 	
-	public void m2(Object n){
-		
-		System.out.println("object-arg method");
+     class F {
+	  	
+		public void method1(){
+			System.out.println("class C's method1");
+			
+		}
+		public void method2(){
+			System.out.println("class C's method2");
+		}
 	}
-
+	class D extends F {
+		public void method3(){
+			System.out.println("class D's method1");
+		}
+		public void method4(){
+			System.out.println("class D's method2");
+	    }
+	}
 }

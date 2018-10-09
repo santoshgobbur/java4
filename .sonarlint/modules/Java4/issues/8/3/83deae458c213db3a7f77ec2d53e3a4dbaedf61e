@@ -1,0 +1,9 @@
+
+Zsquid:S1481"&Remove this unused "a" local variable.(é‚ÙŒ8Ü¨¶»è,H•1RMINORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(é‚ÙŒ8Ü¨¶»è,H¶1RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÙüÂà8Ü¨¶»è,Hß1RMAJORZ
+CODE_SMELL
+isquid:S1854"5Remove this useless assignment to local variable "a".(é‚ÙŒ8Ü¨¶»è,H®1RMAJORZ
+CODE_SMELL

@@ -1,0 +1,32 @@
+package com.testng;
+
+//import org.testng.annotations.AfterClass;
+
+import org.testng.annotations.BeforeSuite;
+//import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class NewTest5 {
+  
+   @BeforeSuite
+   public void B4s(){
+		  
+		  System.out.println("b4 suite");
+	}
+  @Test
+  public void CreateOrder(){
+	  
+	  System.out.println("order created 5");
+  }
+  @Test(priority=-1)
+  public void EnterCredential5(){
+	  
+	  System.out.println("credential entered 5");
+  }
+  @Test
+  public void SelectProduct5(){
+	  
+	  System.out.println("product selected 5");
+  }
+}
+

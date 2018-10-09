@@ -1,0 +1,15 @@
+
+…squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(é«þ†úÿÿÿÿ8¦¯íÿƒ,HÜÂRMAJORZ
+CODE_SMELL
+msquid:S1197("8Move the array designator from the variable to the type.(åã÷ê8¦¯íÿƒ,HÝÂRMINORZ
+CODE_SMELL
+‰squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š ô¨úÿÿÿÿ8¦¯íÿƒ,HÞÂRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àõþþÿÿÿÿ8¦¯íÿƒ,HßÂRMAJORZ
+CODE_SMELL
+Œsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š ô¨úÿÿÿÿ8¦¯íÿƒ,HàÂRMINORZ
+CODE_SMELL
+squid:HiddenFieldCheck":Rename "driver" which hides the field declared at line 18.(¬ÌŸÞùÿÿÿÿ8¦¯íÿƒ,HáÂRMAJORZ
+CODE_SMELL
+Œsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š ô¨úÿÿÿÿ8¦¯íÿƒ,HâÂRMINORZ
+CODE_SMELL

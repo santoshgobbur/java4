@@ -1,0 +1,23 @@
+
+‡squid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍİÓ€8şÊØ¾,HçÚRMINORZ
+CODE_SMELL
+˜squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»Œô›şÿÿÿÿ8Ğ¡å¾,HîÚRCRITICALZ
+CODE_SMELL
+“squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½¡Ç”8Ğ¡å¾,HïÚRCRITICALZ
+CODE_SMELL
+Zsquid:S1214""Move constants to a class or enum.(ÍİÓ€8Ğ¡å¾,HíÚRCRITICALZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ëËüÿÿÿÿ8¿ÿç¾,HğÚRMAJORZ
+CODE_SMELL
+Œsquid:S00114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û£¦›úÿÿÿÿ8şÊØ¾,HæÚRMINORZ
+CODE_SMELL
+¹squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óé¬©8™áÜ¾,HëÚRCRITICALZ
+CODE_SMELL
+_squid:S1214""Move constants to a class or enum.(û£¦›úÿÿÿÿ8Ğ¡å¾,HìÚRCRITICALZ
+CODE_SMELL
+usquid:S2094"BRemove this empty class, write its code or make it an "interface".(„¢Å¶ıÿÿÿÿHãÚRMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù¥ïıÿÿÿÿ8Ì…ê¾,HñÚRMAJORZ
+CODE_SMELL

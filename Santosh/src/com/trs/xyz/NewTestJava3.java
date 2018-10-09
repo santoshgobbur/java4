@@ -49,6 +49,6 @@ public class NewTestJava3 {
     @Test
     public void t(){
   	System.out.println("test of first class");
+    }
   	
-  }
 }

@@ -1,0 +1,17 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(­©‰ğ8‰ùû±,HÓcRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(®õŠ8œö„ü±,HÔcRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿ8¯…ü±,HÕcRMAJORZ
+CODE_SMELL
+gsquid:S1143"5Remove this return statement from this finally block.(şïÉ™şÿÿÿÿ8œö„ü±,HÖcRMAJORZBUG
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²¨ ãH×cRMINORZ
+CODE_SMELL
+xsquid:S3518"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ8¯…ü±,HØcRCRITICALZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÃïœùÿÿÿÿ8¥Ğ´˜œ,HÙcRMAJORZ
+CODE_SMELL

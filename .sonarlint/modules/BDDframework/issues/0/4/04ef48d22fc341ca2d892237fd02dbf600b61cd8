@@ -1,0 +1,5 @@
+
+tsquid:CallToDeprecatedMethod".Remove this use of "format"; it is deprecated.(àš—ê8 Ò¿ð¶,Hž…RMINORZ
+CODE_SMELL
+†squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ô±õ…HŸ…RMINORZ
+CODE_SMELL

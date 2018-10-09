@@ -1,0 +1,16 @@
+
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH™cRINFOZ
+CODE_SMELL
+xsquid:S3518"CMake sure this expression can't be zero before doing this division.(ÚÈŸ‡ÿÿÿÿÿ8À´Ÿ•,HšcRCRITICALZBUG
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²¨ ãH›cRMINORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "i".(ÚÈŸ‡ÿÿÿÿÿ8áò©•,HœcRMAJORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "i" local variable.(ÚÈŸ‡ÿÿÿÿÿ8áò©•,HcRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¬ş…úÿÿÿÿ8¥Ê°•,HcRMAJORZ
+CODE_SMELL
+k
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ÜËè~8™¶±•,HŸcRMAJORZ
+CODE_SMELL

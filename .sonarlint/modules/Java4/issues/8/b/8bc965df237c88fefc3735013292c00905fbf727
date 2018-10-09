@@ -1,0 +1,14 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ö²½ýÿÿÿÿ8¢˜³œ,H·1RMAJORZ
+CODE_SMELL
+Vsquid:S2440
+""Remove this instantiation of "S1".(¼Þî8‰š³œ,H¸1RMAJORZ
+CODE_SMELL
+jsquid:S1854
+"6Remove this useless assignment to local variable "s1".(¼Þî8¢˜³œ,H¹1RMAJORZ
+CODE_SMELL
+[squid:S1481
+"'Remove this unused "s1" local variable.(¼Þî8¢˜³œ,Hº1RMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH»1RINFOZ
+CODE_SMELL

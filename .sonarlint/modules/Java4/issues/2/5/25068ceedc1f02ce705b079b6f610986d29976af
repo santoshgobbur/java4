@@ -1,0 +1,17 @@
+
+zsquid:UselessImportCheck"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿ8Ä¦­•,H·±RMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8øí³»œ,H¸±RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8øí³»œ,H¹±RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÓïøÿÿÿÿ8…ê·»œ,Hº±RMAJORZ
+CODE_SMELL
+dsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH»±RINFOZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ëí¸»œ,H¼±RMAJORZ
+CODE_SMELL

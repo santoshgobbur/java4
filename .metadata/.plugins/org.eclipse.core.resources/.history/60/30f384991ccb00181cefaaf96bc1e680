@@ -1,0 +1,35 @@
+package com.scp.businesslogic;
+
+import static io.restassured.RestAssured.*;
+import io.restassured.http.ContentType;
+
+import org.testng.annotations.Test;
+import static org.hamcrest.Matchers.equalTo;
+
+
+
+public class D2 {
+	
+	@Test
+	public void postRequest(){
+		
+		//RestAssured.baseURI = "";
+		
+		//baseURI = "https://reqres.in";
+		
+		given().
+		body("{"+
+    "\"email\": \"sydney@fife\","+
+    "\"password\": \"pistol\""+
+    "}").		
+		
+		when().
+		post("https://reqres.in/api/register").
+		then().assertThat().
+		contentType(ContentType.JSON).and().
+		body("token",equalTo("QpwL5tke4Pnpja7X"));
+		
+		
+	}
+
+}

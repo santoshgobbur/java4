@@ -1,0 +1,42 @@
+
+q
+squid:S106-"9Replace this use of System.out or System.err by a logger.(§‹ÚŞûÿÿÿÿ8ãÀØÛŸ,H§RMAJORZ
+CODE_SMELL
+‚squid:S00101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾°øÛ8³êÀÛŸ,H RMINORZ
+CODE_SMELL
+l
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ƒíËØ8Í¢Ÿ ¢,H³RMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ô†Á¹8úğ’ ¢,H—RMAJORZ
+CODE_SMELL
+ksquid:S1854
+"7Remove this useless assignment to local variable "hbd".( Ğ8£ÓœÇ¢,H£RMAJORZ
+CODE_SMELL
+\squid:S1481
+"(Remove this unused "hbd" local variable.( Ğ8£ÓœÇ¢,H¢RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±µ88Â²†Ç¢,HRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¨RINFOZ
+CODE_SMELL
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(§›Ö8ıİúÆ¢,HéRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ÆõÛÉ8şÍšÇ¢,H™RMAJORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "p" local variable.( ‹Åì8£ÓœÇ¢,H¡RMINORZ
+CODE_SMELL
+ssquid:S11612":Add the "@Override" annotation above this method signature(˜£Î¨øÿÿÿÿ8ıİúÆ¢,HêRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ÚÚÙùÿÿÿÿ8ïé¯ ¢,HRMAJORZ
+CODE_SMELL
+isquid:S1854	"5Remove this useless assignment to local variable "c".(ÜÀ³8Â²†Ç¢,HRMAJORZ
+CODE_SMELL
+isquid:S1854"5Remove this useless assignment to local variable "p".( ‹Åì8£ÓœÇ¢,H¤RMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¥‘Œüÿÿÿÿ8ßÏùÆ¢,HâRMAJORZ
+CODE_SMELL
+Zsquid:S1481	"&Remove this unused "c" local variable.(ÜÀ³8øôÇ¢,H–RMINORZ
+CODE_SMELL

@@ -1,0 +1,39 @@
+
+l
+squid:S106."9Replace this use of System.out or System.err by a logger.(¼Å“8êë•ö,HÑ@RMAJORZ
+CODE_SMELL
+asquid:S1172!"(Remove this unused method parameter "s".(…ä„Úúÿÿÿÿ8Ö»åõ,H»@RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶Ø»Â8±Ÿ„ö,HÈ@RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(—±à%8òÑçõ,H¾@RMAJORZ
+CODE_SMELL
+\squid:S1172'"(Remove this unused method parameter "b".(¯ÜÍ8±ù’õ,H¡@RMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8¨¤­ô,Hë?RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(—±à%8–œçõ,H¼@RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ8¿öõ,HÆ@RMAJORZ
+CODE_SMELL
+„squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ôÓHÚ?RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖÌáÑüÿÿÿÿ8Çòèõ,H¿@RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éê—8™‡°ô,Hğ?RMAJORZ
+CODE_SMELL
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Œ‚Êáÿÿÿÿÿ8êë•ö,HÒ@RMAJORZ
+CODE_SMELL
+ssquid:S11614":Add the "@Override" annotation above this method signature(„“¼úÿÿÿÿ8êë•ö,HÓ@RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶€åÁøÿÿÿÿ8º˜õ,H@RMAJORZ
+CODE_SMELL
+msquid:S3400$"9Remove this method and declare a constant for this value.(¹Œìí8–œçõ,H½@RMINORZ
+CODE_SMELL

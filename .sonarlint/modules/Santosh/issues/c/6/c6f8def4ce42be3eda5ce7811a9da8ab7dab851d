@@ -1,0 +1,27 @@
+
+l
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(÷åø!8ªšœ¹‚,H†ÃRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡ú÷´ùÿÿÿÿ8ªšœ¹‚,H‡ÃRMAJORZ
+CODE_SMELL
+„squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¯‰Ø8ªšœ¹‚,HˆÃRMINORZ
+CODE_SMELL
+„squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š²Ìô8ªšœ¹‚,H‰ÃRMINORZ
+CODE_SMELL
+‰squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åô²Íıÿÿÿÿ8ªšœ¹‚,HŠÃRMINORZ
+CODE_SMELL
+„squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í’Àº8ªšœ¹‚,H‹ÃRMINORZ
+CODE_SMELL
+‰squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›°Îøÿÿÿÿ8ªšœ¹‚,HŒÃRMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùôçùÿÿÿÿ8ªšœ¹‚,HÃRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(•á§¶8ªšœ¹‚,HÃRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒŒÖ8ªšœ¹‚,HÃRMAJORZ
+CODE_SMELL

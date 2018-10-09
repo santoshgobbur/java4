@@ -1,0 +1,37 @@
+
+isquid:S1854"6Remove this useless assignment to local variable "s6".(®³w8¨Ï‚‘²,HæhRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(·«¸Ãşÿÿÿÿ8Áúö²,HèhRMAJORZ
+CODE_SMELL
+ˆsquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(Çõ ôùÿÿÿÿ8èÚÛ²,HéhRMAJORZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ«–Š8øèş²,HëhRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú®†Œúÿÿÿÿ8ÿ«…‘²,HìhRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©ïÔ¢8É¥à²,HíhRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(œßãüÿÿÿÿ8¾Òı²,HîhRMAJORZ
+CODE_SMELL
+ˆsquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(×†÷¿üÿÿÿÿ8Š¤ğ²,HïhRMAJORZBUG
+Zsquid:S1481"'Remove this unused "s6" local variable.(®³w8¨Ï‚‘²,HğhRMINORZ
+CODE_SMELL
+Ysquid:S2129	" Remove this "String" constructor(ç”ºİıÿÿÿÿ8°÷Ë²,HúhRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(×†÷¿üÿÿÿÿ8á¡ê²,HühRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çõ ôùÿÿÿÿ8èÚÛ²,H€iRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õîß8ÃåŞ²,HiRMAJORZ
+CODE_SMELL
+˜squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Î‚Šüÿÿÿÿ8ù¸Ğ²,H‚iRMAJORZ
+CODE_SMELL
+˜squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(”¯Ÿãÿÿÿÿÿ8á¡ê²,HƒiRMAJORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH„iRINFOZ
+CODE_SMELL

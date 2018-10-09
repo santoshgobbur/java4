@@ -1,0 +1,34 @@
+package com.scp.businesslogic;
+
+import junit.framework.Assert;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+import org.json.simple.JSONObject;
+import org.testng.annotations.Test;
+
+public class D3 {
+	
+	@Test
+	public void postReq(){
+		
+		RequestSpecification req = RestAssured.given();
+		req.header("Content-Type","application/json");
+		
+		JSONObject json = new JSONObject();
+		json.put("name","morpheus");
+		json.put("job","leader");
+		
+		req.body(json.toJSONString());
+		Response response= req.post("https://reqres.in/api/users");
+		
+		int code = response.getStatusCode();
+		
+		Assert.assertEquals(201, code);
+		
+		
+		
+	}
+
+}

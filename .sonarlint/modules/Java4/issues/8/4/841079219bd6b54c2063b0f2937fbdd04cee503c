@@ -1,0 +1,16 @@
+
+[squid:S2129"!Remove this "Integer" constructor(­œÏòÿÿÿÿÿ8®¶©Ù“,Hñ±RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–ßÆøÿÿÿÿ8ÂŽÔ»œ,Hò±RMAJORZ
+CODE_SMELL
+Vsquid:S2129"!Remove this "Integer" constructor(¯Øà8Ëá‡À“,Hó±RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßö“×8‚£Ð»œ,Hô±RMAJORZ
+CODE_SMELL
+[squid:S2129"!Remove this "Integer" constructor(³—»Èúÿÿÿÿ8‘’†¼“,Hõ±RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Ñ­8ýüÒ»œ,Hö±RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8†‹öºœ,H÷±RMAJORZ
+CODE_SMELL

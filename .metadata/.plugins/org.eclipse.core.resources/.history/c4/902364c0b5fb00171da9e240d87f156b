@@ -1,0 +1,25 @@
+package com.scp.ctp;
+
+public class D1 {
+
+   public void fi1(){
+	   System.out.println("fi1");
+   }
+}
+class D2 extends D1{
+	public void fi1(){
+		System.out.println("D2 fi1");
+	}
+}
+class D3 extends D1{
+	
+  public static void main(String[] args){
+	   
+	  D1 n = new D2();
+	  n.fi1();
+	  
+  }
+  public void fi1(){
+	  System.out.println("D3 fi1");
+  }
+}

@@ -1,0 +1,14 @@
+
+Šsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8µœµ‘Â,Hı˜RCRITICALZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(óè¡üÿÿÿÿ8ËÊ²ô³,Hş˜RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï¯÷ª8µœµ‘Â,Hÿ˜RMINORZ
+CODE_SMELL
+r
+squid:S106!"9Replace this use of System.out or System.err by a logger.(àÕêåşÿÿÿÿ8Ò‘ô³,H€™RMAJORZ
+CODE_SMELL
+m
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¼¶ÎÑ8µœµ‘Â,H™RMAJORZ
+CODE_SMELL

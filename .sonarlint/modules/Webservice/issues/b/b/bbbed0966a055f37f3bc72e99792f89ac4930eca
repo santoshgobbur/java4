@@ -1,0 +1,10 @@
+
+Ÿ%squid:RedundantThrowsDeclarationCheck"âRemove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(‰«õê8Ï·ÉΩÕ,HˇüRMINORZ
+CODE_SMELL
+gsquid:S2095"7Close this "CloseableHttpClient" in a "finally" clause.(æ»˝´8Ï·ÉΩÕ,HÄ†RBLOCKERZBUG
+ísquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "h1res".(¿°§Â8Ï·ÉΩÕ,HÅ†RMINORZ
+CODE_SMELL
+vsquid:HiddenFieldCheck"6Rename "h1" which hides the field declared at line 13.(æ»˝´8Ï·ÉΩÕ,HÇ†RMAJORZ
+CODE_SMELL
+ysquid:HiddenFieldCheck"9Rename "h1res" which hides the field declared at line 14.(¿°§Â8Ï·ÉΩÕ,HÉ†RMAJORZ
+CODE_SMELL

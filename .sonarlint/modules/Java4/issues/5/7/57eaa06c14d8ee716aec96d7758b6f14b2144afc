@@ -1,0 +1,11 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(òıÊÒ8ØÀé„¦,H¨yRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8àÚıÅ´,H»yRMAJORZ
+CODE_SMELL
+nsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8›üÅ´,HªyRMINORZ
+CODE_SMELL
+rsquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8›üÅ´,H©yRMINORZ
+CODE_SMELL

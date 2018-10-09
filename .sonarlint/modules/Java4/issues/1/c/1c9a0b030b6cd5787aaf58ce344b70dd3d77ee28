@@ -1,0 +1,15 @@
+
+csquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH¦oRINFOZ
+CODE_SMELL
+€squid:S00116"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶®ÚE8òœÎô,H§oRMINORZ
+CODE_SMELL
+†squid:S00116"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûûİ¢ùÿÿÿÿ8òœÎô,H¨oRMINORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(‡«ş­ûÿÿÿÿ8Øàçô,H©oRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¯ƒÁÆ8òœÎô,HªoRMAJORZ
+CODE_SMELL
+„squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ôÓH«oRMINORZ
+CODE_SMELL

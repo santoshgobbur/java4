@@ -1,6 +1,7 @@
 package com.trs.xyz;
 
 import org.openqa.selenium.By;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
@@ -15,9 +16,9 @@ public class NewJavaTest5 {
 	public void Setup(){
 		
 		System.out.println("hi");
-		System.setProperty("webdriver.chrome.driver", "Resources/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","D:/Selenium/code/Santosh/Resource/chromedriver.exe");
 		d = new ChromeDriver();
-		d.get("https://en-gb.facebook.com/login/");
+		d.get("http://opensource.demo.orangehrmlive.com/");
 	}
 	
 	@Test(dataProvider="mix")

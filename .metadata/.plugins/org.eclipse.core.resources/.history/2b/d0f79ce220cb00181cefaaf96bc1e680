@@ -1,0 +1,34 @@
+package com.scp.businesslogic;
+
+import static io.restassured.RestAssured.*;
+import io.restassured.http.ContentType;
+
+import org.testng.annotations.Test;
+import static org.hamcrest.Matchers.equalTo;
+
+
+
+public class D2 {
+	
+	@Test
+	public void postRequest(){
+		
+		//RestAssured.baseURI = "";
+		
+		baseURI = "https://reqres.in";
+		
+		given().
+	//	param("Content-Type","application/json").
+		body("{"+
+    "\"name\": \"morpheus\","+
+    "\"job\": \"leader\""+
+    "}").		
+		
+		when().
+		post("/api/register").
+		then().assertThat().statusCode(200);
+		
+		
+	}
+
+}

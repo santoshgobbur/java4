@@ -1,0 +1,31 @@
+
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(–ÇãÄûÿÿÿÿ8Åë„Ë,HÌGRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8Îç”Ë,HÍGRMAJORZ
+CODE_SMELL
+nsquid:S1161!":Add the "@Override" annotation above this method signature(¸åÄ‡8ü—Ë,HÎGRMAJORZ
+CODE_SMELL
+nsquid:S1161-":Add the "@Override" annotation above this method signature(ûÄñ8şÎŸË,HÏGRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(õ¦‡ñûÿÿÿÿ8ü—Ë,HĞGRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒèã÷ıÿÿÿÿ8ï¯›Ë,HÑGRMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÙÍø‹8»€Ë,HÒGRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦˜¥ şÿÿÿÿ8ï¯›Ë,HÓGRMAJORZ
+CODE_SMELL
+q
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ˆüœ¸úÿÿÿÿ8»€Ë,HÔGRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(·†á’şÿÿÿÿ8Îç”Ë,HÕGRMAJORZ
+CODE_SMELL
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8»€Ë,HÖGRMAJORZ
+CODE_SMELL

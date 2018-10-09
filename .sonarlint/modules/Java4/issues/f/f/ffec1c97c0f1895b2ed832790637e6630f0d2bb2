@@ -1,0 +1,18 @@
+
+m
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¬äøø8œÛ·Å´,Hö˜RMAJORZ
+CODE_SMELL
+“squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÝÌ°üÿÿÿÿ8¦±¯ÛÁ,H÷˜RMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—‹‰8ÃÐ¹ÛÁ,Hø˜RMAJORZ
+CODE_SMELL
+Žsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿–Ðæ8œÛ·Å´,Hù˜RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ð†›ÛÁ,Hú˜RMAJORZ
+CODE_SMELL
+r
+squid:S106'"9Replace this use of System.out or System.err by a logger.(³ñŒüþÿÿÿÿ8°Ç·ÛÁ,Hû˜RMAJORZ
+CODE_SMELL
+dsquid:S1135	"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHü˜RINFOZ
+CODE_SMELL

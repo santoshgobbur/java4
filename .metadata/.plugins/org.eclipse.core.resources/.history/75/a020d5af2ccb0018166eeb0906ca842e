@@ -1,0 +1,23 @@
+package com.scp.businesslogic;
+
+import io.restassured.RestAssured;
+import io.restassured.specification.RequestSpecification;
+
+import org.json.simple.JSONObject;
+import org.testng.annotations.Test;
+
+public class D3 {
+	
+	@Test
+	public void postReq(){
+		
+		RequestSpecification req = RestAssured.given();
+		req.header("Content-Type","application/json");
+		
+		JSONObject reqparam = new JSONObject();
+		reqparam.put("name","morpheus");
+		reqparam.put("job","leader");
+		
+	}
+
+}

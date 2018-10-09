@@ -1,0 +1,19 @@
+
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(–çè8Œ£ÊÛ±,H°•RMAJORZ
+CODE_SMELL
+]squid:S1659#"#Declare "right" on a separate line.(êÜ‘ıÿÿÿÿ8ÑËÂÚÁ,HŸ—RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ÑËÂÚÁ,H —RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(”òìí8ÑËÂÚÁ,H¡—RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼ğæÌøÿÿÿÿ8ÑËÂÚÁ,H¢—RMAJORZ
+CODE_SMELL
+r
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Ú÷…®ûÿÿÿÿ8ÑËÂÚÁ,H£—RMAJORZ
+CODE_SMELL
+™squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Õ©…âúÿÿÿÿ8ÑËÂÚÁ,H¤—RMAJORZ
+CODE_SMELL

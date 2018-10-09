@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25570" started-at="2017-10-14T13:39:25Z" finished-at="2017-10-14T13:39:51Z">
+  <suite name="Default suite" duration-ms="68" started-at="2018-04-27T15:52:32Z" finished-at="2018-04-27T15:52:32Z">
     <groups>
     </groups>
-    <test name="Test4" duration-ms="25570" started-at="2017-10-14T13:39:25Z" finished-at="2017-10-14T13:39:51Z">
-      <class name="test4.pck.com.Selenium">
-        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:test4.pck.com.Selenium@3c756e4d]" name="Setup" is-config="true" duration-ms="25554" started-at="2017-10-14T19:09:25Z" finished-at="2017-10-14T19:09:51Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="68" started-at="2018-04-27T15:52:32Z" finished-at="2018-04-27T15:52:32Z">
+      <class name="com.scp.ENUM.Demo4">
+        <test-method status="PASS" signature="abc()[pri:-1, instance:com.scp.ENUM.Demo4@5056dfcb]" name="abc" duration-ms="20" started-at="2018-04-27T21:22:32Z" finished-at="2018-04-27T21:22:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Setup -->
-      </class> <!-- test4.pck.com.Selenium -->
-    </test> <!-- Test4 -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="ghi()[pri:0, instance:com.scp.ENUM.Demo4@5056dfcb]" name="ghi" duration-ms="0" started-at="2018-04-27T21:22:32Z" finished-at="2018-04-27T21:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ghi -->
+        <test-method status="PASS" signature="def()[pri:1, instance:com.scp.ENUM.Demo4@5056dfcb]" name="def" duration-ms="5" started-at="2018-04-27T21:22:32Z" finished-at="2018-04-27T21:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- def -->
+      </class> <!-- com.scp.ENUM.Demo4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

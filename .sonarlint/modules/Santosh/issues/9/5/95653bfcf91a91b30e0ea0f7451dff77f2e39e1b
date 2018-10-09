@@ -1,0 +1,7 @@
+
+ksquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8°œ²‚,HÃRINFOZ
+CODE_SMELL
+`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°œ²‚,H‘ÃRMINORZVULNERABILITY
+dsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH’ÃRINFOZ
+CODE_SMELL
+tsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8°œ²‚,H“ÃRMAJORZBUG

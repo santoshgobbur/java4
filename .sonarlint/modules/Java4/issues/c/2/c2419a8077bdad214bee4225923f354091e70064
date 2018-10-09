@@ -1,0 +1,18 @@
+
+osquid:S1118":Add a private constructor to hide the implicit public one.(ÁÆŠê8°Ý¾³œ,H´®RMAJORZ
+CODE_SMELL
+Vsquid:S2440""Remove this instantiation of "S1".(—ü€,8°Ý¾³œ,Hµ®RMAJORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "obj".(—ü€,8°Ý¾³œ,H¶®RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂËƒ‹8˜–­³œ,H·®RMAJORZ
+CODE_SMELL
+jsquid:S2209"5Change this instance-reference to a static reference.(Ý•½Ñ8°Ý¾³œ,H¸®RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Í€ûÿÿÿÿ8à¶²œ,H¹®RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã²°Œ8°Ý¾³œ,Hº®RMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "obj" local variable.(—ü€,8°Ý¾³œ,H»®RMINORZ
+CODE_SMELL

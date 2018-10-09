@@ -1,0 +1,30 @@
+
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®ñ€ÞHŸ'RMAJORZ
+CODE_SMELL
+e
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ƒÅ…·H 'RMAJORZ
+CODE_SMELL
+Vsquid:S2095".Close this "Connection" in a "finally" clause.(æùÎÌH¡'RBLOCKERZBUG
+e
+squid:S106&"9Replace this use of System.out or System.err by a logger.(«‹ÎõH¢'RMAJORZ
+CODE_SMELL
+csquid:S1135*"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿH£'RINFOZ
+CODE_SMELL
+csquid:S1135-"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿH¤'RINFOZ
+CODE_SMELL
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÓÀáøÿÿÿÿH¥'RMINORZ
+CODE_SMELL
+squid:S00117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Õ òH¦'RMINORZ
+CODE_SMELL
+csquid:S11356"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿH§'RINFOZ
+CODE_SMELL
+Xsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH¨'RMINORZVULNERABILITY
+Usquid:S2095 "-Close this "ResultSet" in a "finally" clause.(½ôãH©'RBLOCKERZBUG
+xsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Ùü§ÚHª'RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(‰ÁÈØH«'RMAJORZ
+CODE_SMELL
+Xsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH¬'RMINORZVULNERABILITY
+Tsquid:S2095"-Close this "Statement" in a "finally" clause.(çŸ±cH­'RBLOCKERZBUG
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€ÖÅ¦H®'RMAJORZ
+CODE_SMELL

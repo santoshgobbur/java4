@@ -1,0 +1,12 @@
+
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºı±ùÿÿÿÿ8±Ú•¹°,H™JRMINORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ÜÆñÔ,H“JRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦ÉíF8±Ú•¹°,H—JRMAJORZ
+CODE_SMELL
+‚squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÊ‡E8ÜÆñÔ,H”JRMINORZ
+CODE_SMELL

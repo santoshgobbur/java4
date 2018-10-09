@@ -1,0 +1,46 @@
+
+[squid:S1481!"'Remove this unused "c2" local variable.(¯Š¼8æñ ì´,HÇ~RMINORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“”º›úÿÿÿÿ8ñ§³ì´,Hü~RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯íÌÃ8ñ§³ì´,Hû~RMAJORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í–³»ÿÿÿÿÿ8²ï¯ì´,Hå~RMINORZ
+CODE_SMELL
+asquid:S1172"(Remove this unused method parameter "b".(Í–³»ÿÿÿÿÿ8µ°ì´,Hğ~RMAJORZ
+CODE_SMELL
+jsquid:S1854!"6Remove this useless assignment to local variable "c2".(¯Š¼8æñ ì´,HÉ~RMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Î—ß°øÿÿÿÿH~RMINORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñø‡éşÿÿÿÿ8ŒÔ§ì´,HÓ~RMINORZ
+CODE_SMELL
+asquid:S1172"(Remove this unused method parameter "a".(Ñø‡éşÿÿÿÿ8²ï¯ì´,Hæ~RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¸»‰úÿÿÿÿ8µ°ì´,Hï~RMAJORZ
+CODE_SMELL
+asquid:S1172"(Remove this unused method parameter "b".(“”º›úÿÿÿÿ8ñ§³ì´,Hı~RMAJORZ
+CODE_SMELL
+[squid:S1481 "'Remove this unused "c1" local variable.(ßÇ¯ª8¿¼êë´,H›~RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëôŒÚ8Õñ«ì´,HÜ~RMAJORZ
+CODE_SMELL
+jsquid:S1854 "6Remove this useless assignment to local variable "c1".(ßÇ¯ª8¿¼êë´,H~RMAJORZ
+CODE_SMELL
+\squid:S1172&"(Remove this unused method parameter "c".(ÄÖ¶‹8æñ ì´,HÈ~RMAJORZ
+CODE_SMELL
+asquid:S1172+"(Remove this unused method parameter "e".(Ê÷¼Áşÿÿÿÿ8Şş‚ì´,H±~RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›ß®ûÿÿÿÿ8ççì´,HŒRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(‡áÂ8ççì´,HRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(›¼Í„üÿÿÿÿ8ççì´,HRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ø„Ñ«ûÿÿÿÿ8ççì´,HRMAJORZ
+CODE_SMELL
+\squid:S11720"(Remove this unused method parameter "f".(¸êÀ«8ççì´,HRMAJORZ
+CODE_SMELL

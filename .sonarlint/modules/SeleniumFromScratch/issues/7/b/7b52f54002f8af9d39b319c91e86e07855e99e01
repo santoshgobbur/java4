@@ -1,0 +1,27 @@
+
+dsquid:S1135K"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHñÛRINFOZ
+CODE_SMELL
+€squid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í›†‹HôÛRMINORZ
+CODE_SMELL
+f
+squid:S1060"9Replace this use of System.out or System.err by a logger.(äŞñHöÛRMAJORZ
+CODE_SMELL
+Ysquid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHøÛRMINORZVULNERABILITY
+k
+squid:S106$"9Replace this use of System.out or System.err by a logger.(«ø³£ıÿÿÿÿHúÛRMAJORZ
+CODE_SMELL
+Ÿ"squid:ClassVariableVisibilityCheck"RMake driver a static final constant or non-public and provide accessors if needed.(âØëÁıÿÿÿÿHüÛRMINORZVULNERABILITY
+hsquid:S1118":Add a private constructor to hide the implicit public one.(·ÌáÙHıÛRMAJORZ
+CODE_SMELL
+bsquid:S1444",Make this "public static driver" field final(âØëÁıÿÿÿÿHşÛRMINORZVULNERABILITY
+k
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÿúŠ÷ÿÿÿÿÿHÿÛRMAJORZ
+CODE_SMELL
+e
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ó”ôsH€ÜRMAJORZ
+CODE_SMELL
+€squid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ı¤ÔHÜRMINORZ
+CODE_SMELL
+k
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHˆÜRMAJORZ
+CODE_SMELL

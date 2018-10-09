@@ -1,0 +1,28 @@
+
+nsquid:S2209"5Change this instance-reference to a static reference.(í¶ï²ûÿÿÿÿ8’’’Õ³,HštRMAJORZ
+CODE_SMELL
+‰squid:S2177"WRename this method; there is a "private" method in the parent class with the same name.(ªâ€İøÿÿÿÿ8Òó•Õ³,HtRMAJORZBUG
+isquid:S2209
+"5Change this instance-reference to a static reference.(Ÿáõê8®Ãª„´,H±tRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾´¹K8’’’Õ³,H›tRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(™‘ÎÛıÿÿÿÿ8’’’Õ³,HœtRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(£··8´÷”Õ³,HtRMAJORZ
+CODE_SMELL
+psquid:UnusedPrivateMethod")Remove this unused private "dipl" method.(ªâ€İøÿÿÿÿ8è×¦„´,H§tRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ÿÉº8Òó•Õ³,H tRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¥±ÄÙ8¶”£Õ³,HŸtRMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(äŸ™”úÿÿÿÿ8›­›Õ³,H°tRMAJORZ
+CODE_SMELL
+psquid:UnusedPrivateMethod")Remove this unused private "dipl" method.(ªâ€İøÿÿÿÿ8ë‰Õ³,H¡tRMAJORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+½squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şîÜªøÿÿÿÿ8¤—Ì®„,H÷4RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÍº‚8Êã´Ë„,H¹5RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÂÿÿÿÿÿ8ı€×®„,Hı4RMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(„È¡éúÿÿÿÿHù4RMINORZ
+CODE_SMELL
+½squid:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŞÙ›óúÿÿÿÿ8¤—Ì®„,Hü4RCRITICALZ
+CODE_SMELL
+¸squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·Å¾­8¤—Ì®„,Hû4RCRITICALZ
+CODE_SMELL
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–é¹¦ùÿÿÿÿ8¢ë¯Ë„,H¸5RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ”÷€8ááäË„,H½5RMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+nsquid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓHï)RMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿHğ)RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°”¤ÆüÿÿÿÿHñ)RMAJORZ
+CODE_SMELL
+osquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»ÚıÿÿÿÿHò)RMINORZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+
+]squid:S1481"(Remove this unused "ts2" local variable.(®²Üâ8µßˆ‹“,H½¬RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÊŸİøÿÿÿÿ8ù¯ûŠ“,H¾¬RMAJORZ
+CODE_SMELL
+lsquid:S1854"7Remove this useless assignment to local variable "ts2".(®²Üâ8µßˆ‹“,H¿¬RMAJORZ
+CODE_SMELL
+]squid:S1172"(Remove this unused method parameter "s".(ª˜¬8ø…§‹“,HÀ¬RMAJORZ
+CODE_SMELL
+[squid:S2129"!Remove this "Integer" constructor(Üü¹‹øÿÿÿÿ8Ê«„‹“,HÁ¬RMAJORZ
+CODE_SMELL
+ˆsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍéïÜüÿÿÿÿ8³½ãŠ“,HÂ¬RMINORZ
+CODE_SMELL
+^squid:S1905"$Remove this unnecessary cast to "A".(êÊ æşÿÿÿÿ8µßˆ‹“,HÃ¬RMINORZ
+CODE_SMELL
+osquid:S1854"5Remove this useless assignment to local variable "i".(Üü¹‹øÿÿÿÿ8Ê«„‹“,HÄ¬RMAJORZ
+CODE_SMELL
+r
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‰àù¸ÿÿÿÿÿ8ø…§‹“,HÅ¬RMAJORZ
+CODE_SMELL
+`squid:S1481"&Remove this unused "i" local variable.(Üü¹‹øÿÿÿÿ8Ê«„‹“,HÆ¬RMINORZ
+CODE_SMELL
+Ysquid:S1905"$Remove this unnecessary cast to "A".(®²Üâ8ù¯ûŠ“,HÇ¬RMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²×ó´8¹õ²‹“,HÈ¬RMAJORZ
+CODE_SMELL

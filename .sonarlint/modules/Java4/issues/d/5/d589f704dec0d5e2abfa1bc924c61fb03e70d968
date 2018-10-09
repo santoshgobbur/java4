@@ -1,0 +1,17 @@
+
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÕÎä•,HÌcRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£‹¤¼ıÿÿÿÿ8Í«œü±,HÍcRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³Ó†äÿÿÿÿÿ8ÖÊ”ü±,HÎcRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ8üáŠü±,HÏcRMAJORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²¨ ãHĞcRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ì¢¡8ã¨˜ü±,HÑcRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğÒğÃ8’¬×•,HÒcRMAJORZ
+CODE_SMELL

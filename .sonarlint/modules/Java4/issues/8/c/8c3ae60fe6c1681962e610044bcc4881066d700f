@@ -1,11 +1,11 @@
 
-d
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZH÷!RMAJORZ
-CODE_SMELL
-Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÕüûùøÿÿÿÿHø!RMINORZ
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×¤¨ÞHÀ:RMAJORZ
 CODE_SMELL
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁHù!RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁHÁ:RMAJORZ
 CODE_SMELL
-xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×¤¨ÞHú!RMAJORZ
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÕüûùøÿÿÿÿHÂ:RMINORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZHÃ:RMAJORZ
 CODE_SMELL

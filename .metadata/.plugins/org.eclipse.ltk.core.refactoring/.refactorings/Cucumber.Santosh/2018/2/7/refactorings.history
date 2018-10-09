@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;Cucumber.Santosh&apos;&#x0D;&#x0A;- Original project: &apos;Cucumber.Santosh&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     fb1.feature&#x0D;&#x0A;     fb2.feature&#x0D;&#x0A;     O1.feature&#x0D;&#x0A;     O2.feature" description="Delete elements" element1="Feature/fb2.feature" element2="Feature/O2.feature" element3="Feature/fb1.feature" element4="Feature/O1.feature" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1518325505688" subPackages="false" version="1.0"/>
+</session>

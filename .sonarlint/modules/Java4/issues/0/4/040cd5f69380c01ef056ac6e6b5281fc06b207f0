@@ -1,0 +1,7 @@
+
+csquid:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÏeRINFOZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(²¨ ãHĞeRMINORZ
+CODE_SMELL
+€squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Œ“ê€²,HÑeRMINORZ
+CODE_SMELL

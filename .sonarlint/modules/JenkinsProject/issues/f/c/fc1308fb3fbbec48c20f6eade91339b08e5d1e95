@@ -1,0 +1,47 @@
+
+~squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—"HŒwRMINORZ
+CODE_SMELL
+¢squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éŒ©ÍÿÿÿÿÿHwRMINORZ
+CODE_SMELL
+Xsquid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHwRMINORZVULNERABILITY
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©ä½­HwRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(°‘ÉÒûÿÿÿÿHwRMAJORZ
+CODE_SMELL
+csquid:S1135G"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH‘wRINFOZ
+CODE_SMELL
+\squid:S1481"*Remove this unused "value" local variable.(å•¶ŞÿÿÿÿÿH’wRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(º¼ øÿÿÿÿ8ø©Ó²,H“wRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(Ùü§ÚH”wRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(Ã¢¬‹H•wRMAJORZ
+CODE_SMELL
+csquid:S1135N"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH–wRINFOZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é±¦šH—wRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(Œ½¯¨şÿÿÿÿH˜wRMAJORZ
+CODE_SMELL
+[squid:S2095%"3Close this "FileInputStream" in a "finally" clause.(üÌã¸H™wRBLOCKERZBUG
+}squid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(åı±ÿÿÿÿÿHšwRMAJORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(Ÿ²ˆªúÿÿÿÿH›wRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(²¬ûîHœwRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(òØñÖÿÿÿÿÿ8òÕöÓ²,HwRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(÷£‘¦HwRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì™ øÿÿÿÿHŸwRMAJORZ
+CODE_SMELL
+csquid:S1135D"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH wRINFOZ
+CODE_SMELL
+Xsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¡wRMINORZVULNERABILITY
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò®½ÆúÿÿÿÿH¢wRMAJORZ
+CODE_SMELL
+ksquid:UselessImportCheck
+"1Remove this unused import 'java.util.Properties'.(¬µ²H£wRMINORZ
+CODE_SMELL

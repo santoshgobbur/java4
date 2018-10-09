@@ -1,0 +1,21 @@
+
+`squid:S1481"'Remove this unused "s3" local variable.(Æ‘±·ıÿÿÿÿ8—ë½Ü‰,Hà=RMINORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(úÜÄHá=RMINORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "s2" local variable.(£™î´8—ë½Ü‰,Hâ=RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ€‹øÿÿÿÿ8¡¹ÉÜ‰,Hã=RMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "s1".(…¸Äàûÿÿÿÿ8—ë½Ü‰,Hä=RMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "s1" local variable.(…¸Äàûÿÿÿÿ8—ë½Ü‰,Hå=RMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "s3".(Æ‘±·ıÿÿÿÿ8—ë½Ü‰,Hæ=RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿ8Ü»ÇÜ‰,Hç=RMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "s2".(£™î´8—ë½Ü‰,Hè=RMAJORZ
+CODE_SMELL
